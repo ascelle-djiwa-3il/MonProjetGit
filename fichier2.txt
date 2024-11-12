@@ -2,3 +2,4 @@ Deuxième fichier texte de mon projet
 ...
 
 	Amélioration du fichier2
+	Ajout d'une ligne supplémentaire
