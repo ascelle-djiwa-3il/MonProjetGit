@@ -1,3 +1,4 @@
 Premier fichier texte de mon projet
 
-Modification du fichier1
+	Modification du fichier1
+	Modification du fichier sur la branche "nouvelle-fonctionnalite"
